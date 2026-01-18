@@ -1,0 +1,6 @@
+git clone <url>
+ git status      ----->> to check the status of modified file
+
+ git add .            ------>>> to add the modified file 
+ git commit -m "mesaage u want to add"     
+
